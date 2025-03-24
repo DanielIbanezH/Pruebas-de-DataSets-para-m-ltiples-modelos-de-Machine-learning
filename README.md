@@ -1,4 +1,4 @@
-# Pruebas-de-DataSets-para-m-ltiples-modelos-de-Machine-learning
+# Pruebas-de-DataSets-para-multiples-modelos-de-machine-learning
 Implementacion de los siguientes métodos:   
   • Regresión logística (Logistic Regression) 
   • K-Vecinos Cercanos (K-Nearest Neighbors) 
